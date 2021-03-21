@@ -1,0 +1,11 @@
+{
+    "name": "mozaca/mozaca",
+    "version": "1.0.0",
+    "license": "Commercial",
+    "authors": [
+        {
+            "name": "Mozaca Team",
+            "email": "info@mozaca.app"
+        }
+    ]
+}
